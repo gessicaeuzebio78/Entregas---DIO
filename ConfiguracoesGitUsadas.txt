@@ -1,0 +1,23 @@
+ctrl+l--limpar
+
+git config 
+
+	init.
+		defaultBranch
+	user.
+
+***************
+git
+	init
+	clone
+		URL --branch feature-1 --single-branch
+	remote -v^
+mkdir 
+cd
+	.git
+ls
+
+cat
+	config
+
+*********************

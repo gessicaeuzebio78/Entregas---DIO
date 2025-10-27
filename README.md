@@ -1,4 +1,4 @@
-# Entregas---DIO
+# Entregas-- DIO
 
 
 #Repositórios para armazenar resumos sobre o Git e GitHub do curso de Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).

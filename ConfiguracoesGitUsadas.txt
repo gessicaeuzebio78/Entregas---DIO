@@ -11,7 +11,7 @@ git
 	init
 	clone
 		URL --branch feature-1 --single-branch
-	remote -v^
+	remote -v
 mkdir 
 cd
 	.git

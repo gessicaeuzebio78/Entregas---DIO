@@ -1,5 +1,6 @@
 :root {
-  --primary: #0078d7;
+  --primary: #993399;
+  --primary-dark: #939;
   --text-dark: #222;
   --text-light: #555;
   --bg-light: #f9f9f9;
@@ -123,7 +124,7 @@ body {
 }
 
 .btn:hover {
-  background: #005fa3;
+  background: var(--primary-dark);
 }
 
 /* Seções */
